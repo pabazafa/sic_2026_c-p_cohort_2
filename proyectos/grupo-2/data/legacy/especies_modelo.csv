@@ -1,0 +1,19 @@
+clase,nombre_comun,nombre_cientifico,grupo,entrenar,motivo_reporte,autoridad
+abejorro_europeo,Abejorro europeo,Bombus terrestris,Insecto,si,Desplaza al abejorro nativo chileno (Bombus dahlbomii) y transmite parasitos,SAG
+cotorra_argentina,Cotorra argentina,Myiopsitta monachus,Ave,si,Nidos coloniales sobre tendido electrico; dana frutales y cultivos,SAG
+avispa_chaqueta_amarilla,Avispa chaqueta amarilla,Vespula germanica,Insecto,si,Riesgo sanitario por picaduras; afecta apicultura y fruticultura,SAG
+aromo,Aromo australiano,Acacia dealbata,Planta,si,Muy inflamable; aumenta el riesgo de incendio urbano-forestal,CONAF
+retamilla,Retamilla,Teline monspessulana,Planta,si,Altamente inflamable; coloniza sitios eriazos y bordes de camino,CONAF
+zarzamora,Zarzamora,Rubus ulmifolius,Planta,si,Forma matorrales impenetrables e impide regeneracion nativa,CONAF
+higuerilla,Higuerilla,Ricinus communis,Planta,si,Semillas muy toxicas (ricina); frecuente en sitios eriazos urbanos,CONAF
+tabaco_moro,Tabaco moro,Nicotiana glauca,Planta,si,Toxica para personas y ganado; invade quebradas y bordes urbanos,CONAF
+caracol_de_jardin,Caracol de jardin,Cornu aspersum,Molusco,si,Plaga agricola y de huertos domesticos,SAG
+tordo_renegrido,Tordo renegrido,Molothrus bonariensis,Ave,si,Parasito de cria: pone sus huevos en nidos de aves nativas,SAG
+conejo_europeo,Conejo europeo,Oryctolagus cuniculus,Mamifero,si,Impide regeneracion vegetal y erosiona suelos,SAG
+vinagrillo,Vinagrillo,Oxalis pes-caprae,Planta,si,Invade jardines y cultivos; muy dificil de erradicar,CONAF
+garza_boyera,Garza boyera,Bubulcus ibis,Ave,revisar,Expansion reciente; impacto aun discutido en Chile,SAG
+dedal_de_oro,Dedal de oro,Eschscholzia californica,Planta,revisar,Muy extendida y percibida como ornamental; bajo valor de alerta,CONAF
+gato_domestico,Gato domestico,Felis catus,Mamifero,no,Invasora oficial pero inviable como alerta ciudadana,-
+diente_de_leon,Diente de leon,Taraxacum officinale,Planta,no,Demasiado comun; reportarla saturaria el sistema,-
+chicoria,Chicoria,Cichorium intybus,Planta,no,Maleza banal sin accion asociada,-
+margarita,Margarita,Bellis perennis,Planta,no,Sin valor de alerta y sin fotos de licencia libre disponibles,-

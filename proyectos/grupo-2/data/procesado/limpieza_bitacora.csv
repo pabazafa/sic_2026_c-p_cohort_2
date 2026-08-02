@@ -1,0 +1,8 @@
+paso,descartados,quedan
+duplicados por gbif_id,0,49165
+sin coordenada valida,0,49165
+fuera del bounding box de Chile,0,49165
+"coordenada en (0,0)",0,49165
+registros de ausencia,0,49165
+"sin fecha exacta (se marcan, no se descartan)",32,49165
+TOTAL,0,49165

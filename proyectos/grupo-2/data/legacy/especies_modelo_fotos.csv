@@ -1,0 +1,19 @@
+clase,nombre_comun,nombre_cientifico,grupo,entrenar,motivo_reporte,autoridad,speciesKey,reg_urbanos,zonas,fotos_cc0,fotos_ccby,fotos_libres,fotos_ccbync
+abejorro_europeo,Abejorro europeo,Bombus terrestris,Insecto,si,Desplaza al abejorro nativo chileno (Bombus dahlbomii) y transmite parasitos,SAG,1340503,1020,26,2858,12687,15545,238178
+cotorra_argentina,Cotorra argentina,Myiopsitta monachus,Ave,si,Nidos coloniales sobre tendido electrico; dana frutales y cultivos,SAG,2479407,579,11,891,4023,4914,28257
+avispa_chaqueta_amarilla,Avispa chaqueta amarilla,Vespula germanica,Insecto,si,Riesgo sanitario por picaduras; afecta apicultura y fruticultura,SAG,1311649,148,17,1765,6539,8304,29015
+aromo,Aromo australiano,Acacia dealbata,Planta,si,Muy inflamable; aumenta el riesgo de incendio urbano-forestal,CONAF,2979474,332,19,717,7530,8247,12374
+retamilla,Retamilla,Teline monspessulana,Planta,si,Altamente inflamable; coloniza sitios eriazos y bordes de camino,CONAF,5347796,139,8,735,2883,3618,8412
+zarzamora,Zarzamora,Rubus ulmifolius,Planta,si,Forma matorrales impenetrables e impide regeneracion nativa,CONAF,2996929,138,15,1373,7323,8696,5516
+higuerilla,Higuerilla,Ricinus communis,Planta,si,Semillas muy toxicas (ricina); frecuente en sitios eriazos urbanos,CONAF,5380041,150,11,4195,8646,12841,44491
+tabaco_moro,Tabaco moro,Nicotiana glauca,Planta,si,Toxica para personas y ganado; invade quebradas y bordes urbanos,CONAF,2928783,296,10,2811,5277,8088,26465
+caracol_de_jardin,Caracol de jardin,Cornu aspersum,Molusco,si,Plaga agricola y de huertos domesticos,SAG,5858758,309,19,5420,13981,19401,163891
+tordo_renegrido,Tordo renegrido,Molothrus bonariensis,Ave,si,Parasito de cria: pone sus huevos en nidos de aves nativas,SAG,2484396,674,21,893,2720,3613,11742
+conejo_europeo,Conejo europeo,Oryctolagus cuniculus,Mamifero,si,Impide regeneracion vegetal y erosiona suelos,SAG,2436940,183,12,3336,9861,13197,45094
+vinagrillo,Vinagrillo,Oxalis pes-caprae,Planta,si,Invade jardines y cultivos; muy dificil de erradicar,CONAF,2891661,137,8,2368,11467,13835,42195
+garza_boyera,Garza boyera,Bubulcus ibis,Ave,revisar,Expansion reciente; impacto aun discutido en Chile,SAG,2480830,182,22,2301,8523,10824,83641
+dedal_de_oro,Dedal de oro,Eschscholzia californica,Planta,revisar,Muy extendida y percibida como ornamental; bajo valor de alerta,CONAF,2888380,599,20,5915,10158,16073,59510
+gato_domestico,Gato domestico,Felis catus,Mamifero,no,Invasora oficial pero inviable como alerta ciudadana,-,2435035,124,15,5140,8986,14126,59274
+diente_de_leon,Diente de leon,Taraxacum officinale,Planta,no,Demasiado comun; reportarla saturaria el sistema,-,5394163,121,18,11833,18643,30476,170002
+chicoria,Chicoria,Cichorium intybus,Planta,no,Maleza banal sin accion asociada,-,5392252,201,19,7924,22308,30232,146340
+margarita,Margarita,Bellis perennis,Planta,no,Sin valor de alerta y sin fotos de licencia libre disponibles,-,3117424,119,8,10746,22708,33454,130018

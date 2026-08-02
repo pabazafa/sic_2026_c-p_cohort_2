@@ -1,0 +1,4 @@
+clase_modelo,nombre_comun,nombre_cientifico,registros,registros_continentales,con_foto,confirmados,urbanos,rurales,pct_urbano,regiones,zonas_urbanas,lat_min,lat_max,lat_mediana,anio_primero,anio_ultimo
+liebre,Liebre europea,Lepus europaeus,45778,45778,249,45738,1622,44156,3.5,15,11,-53.655,-18.188,-45.97,1960,2026
+jabali,Jabali,Sus scrofa,3156,3156,34,3148,6,3150,0.2,12,5,-54.929,-27.353,-41.057,1970,2026
+rata gris,Rata gris,Rattus norvegicus,231,230,43,219,84,147,36.4,14,18,-53.133,-18.418,-35.83,1907,2026

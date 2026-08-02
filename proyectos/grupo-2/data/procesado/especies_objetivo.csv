@@ -1,0 +1,4 @@
+clase_modelo,id,speciesKey,nombre_comun,nombre_cientifico,tipo,impacto_ambiental,autoridad,portador_enfermedades,descripcion
+jabali,1,7705930,Jabali,Sus scrofa,Animal,Alto,SAG,Si,Suido silvestre que remueve el suelo del bosque nativo y transmite enfermedades al ganado y a las personas.
+liebre,2,7952072,Liebre europea,Lepus europaeus,Animal,Medio,SAG,No,Mamifero herbivoro de orejas largas introducido desde Europa. Compite por alimento con la fauna nativa y dana cultivos.
+rata gris,3,2439261,Rata gris,Rattus norvegicus,Animal,Alto,SAG,Si,Roedor invasor urbano y rural que depreda nidos de aves nativas y transmite enfermedades graves como hantavirus y leptospirosis.

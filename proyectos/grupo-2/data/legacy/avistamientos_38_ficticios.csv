@@ -1,0 +1,39 @@
+id,especie_id,region,comuna,lat,lon,fecha,estado
+1,1,Magallanes,Porvenir,-53.290,-70.370,2026-06-18,Confirmado
+2,1,Magallanes,Punta Arenas,-53.163,-70.917,2026-05-02,Confirmado
+3,1,Magallanes,Timaukel,-54.030,-68.960,2026-07-05,En revision
+4,2,Los Lagos,Puerto Montt,-41.471,-72.936,2026-07-11,Confirmado
+5,2,Los Lagos,Castro,-42.482,-73.763,2026-06-27,Confirmado
+6,2,Aysen,Coyhaique,-45.572,-72.068,2026-07-01,En revision
+7,3,Araucania,Curacautin,-38.435,-71.888,2026-06-09,Confirmado
+8,3,Aysen,Cochrane,-47.254,-72.575,2026-05-21,Confirmado
+9,3,Biobio,Los Angeles,-37.469,-72.353,2026-07-14,En revision
+10,4,Metropolitana,Colina,-33.203,-70.674,2026-07-19,Confirmado
+11,4,Valparaiso,Quillota,-32.881,-71.247,2026-07-08,Confirmado
+12,4,Coquimbo,Ovalle,-30.601,-71.199,2026-06-15,Descartado
+13,5,Metropolitana,Melipilla,-33.688,-71.216,2026-07-16,Confirmado
+14,5,Valparaiso,Casablanca,-33.320,-71.410,2026-06-30,Confirmado
+15,6,Los Rios,Panguipulli,-39.643,-72.332,2026-07-03,Confirmado
+16,6,Araucania,Villarrica,-39.281,-72.227,2026-06-11,Confirmado
+17,7,Metropolitana,Santiago,-33.447,-70.660,2026-07-21,Confirmado
+18,7,Maule,Talca,-35.426,-71.655,2026-07-12,Confirmado
+19,7,Biobio,Concepcion,-36.827,-73.050,2026-07-09,En revision
+20,8,Biobio,Nacimiento,-37.502,-72.673,2026-06-24,Confirmado
+21,8,Maule,Constitucion,-35.333,-72.412,2026-05-30,Confirmado
+22,9,Metropolitana,Providencia,-33.426,-70.610,2026-07-20,Confirmado
+23,9,Valparaiso,Vina del Mar,-33.024,-71.552,2026-07-06,En revision
+24,10,Los Rios,Valdivia,-39.814,-73.245,2026-07-17,Confirmado
+25,10,Araucania,Temuco,-38.739,-72.598,2026-07-02,Confirmado
+26,11,Biobio,Arauco,-37.246,-73.318,2026-06-20,Confirmado
+27,11,Araucania,Nueva Imperial,-38.745,-72.951,2026-05-28,Confirmado
+28,12,Valparaiso,Olmue,-32.998,-71.187,2026-07-13,Confirmado
+29,12,Metropolitana,San Jose de Maipo,-33.640,-70.353,2026-06-26,En revision
+30,13,Maule,Cauquenes,-35.967,-72.353,2026-07-10,Confirmado
+31,13,Biobio,Yumbel,-37.096,-72.563,2026-06-05,Confirmado
+32,14,Metropolitana,Talagante,-33.664,-70.928,2026-07-15,En revision
+33,15,Aysen,Rio Ibanez,-46.293,-71.938,2026-06-13,Confirmado
+34,15,Los Lagos,Puerto Varas,-41.319,-72.985,2026-07-04,Confirmado
+35,2,Chiloe,Ancud,-41.868,-73.830,2026-07-22,En revision
+36,3,Metropolitana,Lampa,-33.447,-70.66,2026-07-28,En revision
+37,3,Los Rios,Los Lagos,-39.85,-72.8167,2026-07-28,En revision
+38,3,Aysen,Tortel,-47.7833,-73.5333,2026-07-29,En revision

@@ -1,0 +1,11 @@
+fuente,clase_modelo,nombre_comun,registros,pct_urbano,lat_mediana,regiones,anio_min,anio_max
+Camara trampa (CONAF),liebre,Liebre europea,45189,3.5,-45.97,11,2017,2023
+Camara trampa (CONAF),jabali,Jabali,3114,0.0,-41.06,4,2020,2022
+Ciencia ciudadana (iNaturalist),liebre,Liebre europea,256,8.6,-47.11,15,1991,2026
+Ciencia ciudadana (iNaturalist),rata gris,Rata gris,43,55.8,-33.79,10,2009,2026
+Ciencia ciudadana (iNaturalist),jabali,Jabali,37,13.5,-39.4,12,2010,2026
+Coleccion museologica,rata gris,Rata gris,173,34.7,-36.54,13,1907,2022
+Coleccion museologica,liebre,Liebre europea,31,6.5,-32.65,5,1960,2024
+Otros estudios,liebre,Liebre europea,302,1.0,-33.65,8,1999,2024
+Otros estudios,rata gris,Rata gris,15,0.0,-22.43,4,1985,2024
+Otros estudios,jabali,Jabali,5,20.0,-44.37,2,1970,2012

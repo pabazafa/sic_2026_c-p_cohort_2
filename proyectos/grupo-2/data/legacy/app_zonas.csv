@@ -1,0 +1,31 @@
+zona,region,lat,lon,radio_km,registros_totales,reg_exoticas,n_especies,reg_invasoras,n_invasoras,pct_exoticas,pct_invasoras,muestra_suficiente
+Gran Santiago,Metropolitana,-33.45,-70.66,30,48832,6607,266,3240,94,13.53,6.63,True
+Gran Valparaiso,Valparaiso,-33.04,-71.55,18,20519,1916,202,928,71,9.34,4.52,True
+Gran Concepcion,Biobio,-36.827,-73.05,20,30798,2575,253,1129,87,8.36,3.67,True
+Gran La Serena,Coquimbo,-29.93,-71.29,15,19609,1141,141,526,54,5.82,2.68,True
+Antofagasta,Antofagasta,-23.65,-70.4,12,2326,128,37,71,12,5.5,3.05,True
+Temuco,Araucania,-38.739,-72.598,12,4368,466,119,199,40,10.67,4.56,True
+Iquique,Tarapaca,-20.214,-70.152,12,892,36,16,9,6,4.04,1.01,True
+Rancagua,O'Higgins,-34.17,-70.744,12,1252,278,94,99,33,22.2,7.91,True
+Talca,Maule,-35.426,-71.655,12,1639,409,97,151,40,24.95,9.21,True
+Arica,Arica y Parinacota,-18.478,-70.321,12,2794,18,10,9,3,0.64,0.32,True
+Chillan,Nuble,-36.606,-72.103,12,1523,466,105,224,36,30.6,14.71,True
+Puerto Montt,Los Lagos,-41.471,-72.936,15,3408,283,76,114,32,8.3,3.35,True
+Calama,Antofagasta,-22.454,-68.93,10,321,11,7,4,3,3.43,1.25,False
+Osorno,Los Lagos,-40.573,-73.135,12,2791,291,78,143,31,10.43,5.12,True
+Valdivia,Los Rios,-39.814,-73.245,12,8698,497,121,172,48,5.71,1.98,True
+Copiapo,Atacama,-27.366,-70.332,12,425,47,21,26,9,11.06,6.12,False
+Los Angeles,Biobio,-37.469,-72.353,12,465,122,73,40,30,26.24,8.6,False
+Curico,Maule,-34.983,-71.239,10,935,117,73,43,27,12.51,4.6,True
+Punta Arenas,Magallanes,-53.163,-70.917,12,4249,395,59,210,24,9.3,4.94,True
+Coyhaique,Aysen,-45.572,-72.068,10,1060,124,44,48,17,11.7,4.53,True
+Ovalle,Coquimbo,-30.601,-71.199,10,456,60,30,25,11,13.16,5.48,False
+San Antonio,Valparaiso,-33.593,-71.621,12,8407,944,178,402,66,11.23,4.78,True
+Linares,Maule,-35.846,-71.593,10,215,20,16,7,6,9.3,3.26,False
+Melipilla,Metropolitana,-33.688,-71.216,10,822,297,127,107,48,36.13,13.02,True
+Los Andes,Valparaiso,-32.834,-70.598,10,620,55,33,24,12,8.87,3.87,True
+Angol,Araucania,-37.795,-72.716,10,678,33,26,17,13,4.87,2.51,True
+Castro,Los Lagos,-42.482,-73.763,10,2130,95,42,49,22,4.46,2.3,True
+Villarrica,Araucania,-39.281,-72.227,10,1643,108,53,36,17,6.57,2.19,True
+Puerto Varas,Los Lagos,-41.319,-72.985,10,2623,267,80,98,36,10.18,3.74,True
+Quillota,Valparaiso,-32.881,-71.247,10,881,117,66,50,30,13.28,5.68,True

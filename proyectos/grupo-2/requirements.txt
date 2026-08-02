@@ -1,0 +1,49 @@
+# Dependencias de la APLICACION (lo que instala Streamlit Cloud).
+# Las herramientas de notebooks van en requirements-dev.txt a proposito: aqui
+# solo debe estar lo que la app necesita para correr.
+
+# --- PyTorch en su version solo-CPU -----------------------------------------
+# Streamlit Cloud no tiene GPU: la build con CUDA arrastra ~2,5 GB de paquetes
+# nvidia-* y el despliegue muere por espacio o por timeout.
+#
+# OJO con el detalle: '--extra-index-url' NO da prioridad a este indice, solo lo
+# suma a PyPI, y pip se queda con la version MAS ALTA de las dos. Como PyPI
+# publica el mismo numero de version con CUDA incluido, un rango abierto
+# ('torch>=2.2') resolvia siempre a la build con CUDA y el fix no servia de nada.
+#
+# La unica forma de forzar la variante CPU es fijar el sufijo local '+cpu', que
+# existe SOLO en el indice de PyTorch. El marcador de plataforma deja instalar
+# lo mismo en macOS, donde ese sufijo no se publica.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0+cpu ; sys_platform == "linux"
+torchvision==0.28.0+cpu ; sys_platform == "linux"
+torch==2.13.0 ; sys_platform != "linux"
+torchvision==0.28.0 ; sys_platform != "linux"
+
+# --- Modelo de reconocimiento -----------------------------------------------
+ultralytics>=8.3.0,<9
+
+# Nota: ultralytics depende de opencv-python (no de la variante headless), y esa
+# libreria necesita libGL.so.1 y libglib, que NO vienen en el contenedor de
+# Streamlit Cloud. Sin eso la app arranca y muere con ImportError al importar cv2.
+# No se arregla desde aqui: se resuelve con el archivo packages.txt de la raiz.
+#
+# En packages.txt el nombre correcto es 'libglib2.0-0t64', NO 'libglib2.0-0'.
+# El contenedor corre Debian trixie, donde ese paquete se renombro por la
+# transicion a time_t de 64 bits. Pidiendo el nombre viejo, apt lo encuentra solo
+# en el repo bullseye que la imagen todavia arrastra, y esa version depende de
+# libffi7 y libpcre3, que en trixie no existen: el build muere con "held broken
+# packages" ANTES de llegar a pip. Y ojo: packages.txt no admite comentarios,
+# apt-get toma cada linea como nombre de paquete.
+
+# --- Aplicacion -------------------------------------------------------------
+# Los topes de version mayor NO son decorativos: sin ellos el despliegue instala
+# lo ultimo publicado el dia del build y deja de parecerse a lo que probamos en
+# local. Con 'pandas>=2.0' a secas, Streamlit Cloud ya resuelve a pandas 3.x,
+# que trae cambios incompatibles respecto del 2.x con el que esta escrita la app.
+streamlit>=1.40,<2
+pandas>=2.0,<3
+numpy>=1.26,<3
+pillow>=10.0,<13
+pydeck>=0.9,<1
+requests>=2.31,<3      # respaldo de fotos de especie desde Wikipedia

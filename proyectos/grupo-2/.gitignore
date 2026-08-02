@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+
+# Fotos subidas por usuarios y reportes generados en local
+data/subidas/*
+!data/subidas/.gitkeep
+data/reportes.csv

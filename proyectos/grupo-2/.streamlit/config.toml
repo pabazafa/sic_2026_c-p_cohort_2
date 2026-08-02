@@ -1,0 +1,13 @@
+[theme]
+base = "light"
+primaryColor = "#D9452B"              # bermellon del pajaro del logo
+backgroundColor = "#F2F1ED"           # hueso calido del logo
+secondaryBackgroundColor = "#E6E3D8"  # arena, para barra lateral y widgets
+textColor = "#33272E"                 # negro calido con matiz ciruela
+font = "sans serif"
+
+[server]
+maxUploadSize = 30
+
+[browser]
+gatherUsageStats = false

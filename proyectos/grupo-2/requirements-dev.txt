@@ -1,0 +1,10 @@
+# Herramientas para trabajar los notebooks del analisis.
+# NO las instala Streamlit Cloud: la app no las necesita, y meterlas en
+# requirements.txt agrega ~100 paquetes al build del despliegue.
+#
+#   pip install -r requirements.txt -r requirements-dev.txt
+
+matplotlib>=3.8       # visualizaciones del notebook 02
+jupyterlab>=4.0
+nbformat>=5.9
+nbconvert>=7.0        # exportar los notebooks a notebooks/html/

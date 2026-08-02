@@ -1,0 +1,4 @@
+id,nombre_comun,nombre_cientifico,tipo,impacto_ambiental,autoridad,descripcion,imagen_url,portador_enfermedades
+1,Jabali,Sus scrofa,Animal,Alto,SAG,Suido silvestre que remueve el suelo del bosque nativo y transmite enfermedades al ganado y a las personas.,https://inaturalist-open-data.s3.amazonaws.com/photos/353828920/original.jpeg,Si
+2,Liebre europea,Lepus europaeus,Animal,Medio,SAG,Mamifero herbivoro de orejas largas introducido desde Europa. Compite por alimento con la fauna nativa y dana cultivos.,https://inaturalist-open-data.s3.amazonaws.com/photos/618859208/original.jpg,No
+3,Rata gris,Rattus norvegicus,Animal,Alto,SAG,Roedor invasor urbano y rural que depreda nidos de aves nativas y transmite enfermedades graves como hantavirus y leptospirosis.,https://inaturalist-open-data.s3.amazonaws.com/photos/396590974/original.jpeg,Si
